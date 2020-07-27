@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there,  👋
+## I'm Maciek and here are some basic projects I've created. Feel free to download and try it out for yourself.
+
+### 1. [Ads Board](https://github.com/macstojak/AdsBoard) - project for ad managment, made with Node, Express, EJS And Mongo.
+
+### 2. [Game of life](https://github.com/macstojak/game-of-life) - simple game that checks how life goes around with Conway's rules. Made with React and JS patterns.
+
 
 <!--
 **macstojak/macstojak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
