@@ -11,13 +11,13 @@
 
 ### 5. [StartMeUp!](https://github.com/macstojak/StartMeApp) - react-native based project for obtaining financial news from bankier.pl website with additional functionalities like maps. And when you're tired of bad news you can play the built-in piano!
 
-### 5. [Yelp Camp](https://github.com/macstojak/yelp-camp) - content managment system for camping sites. Made with Node.js, Express.js, EJS, Mongo.
+### 6. [Yelp Camp](https://github.com/macstojak/yelp-camp) - content managment system for camping sites. Made with Node.js, Express.js, EJS, Mongo.
 
-### 6. [PokeDex](https://github.com/macstojak/PokeDex) - pokedex - a pokemon list made with React Native, React-Redux.
+### 7. [PokeDex](https://github.com/macstojak/PokeDex) - pokedex - a pokemon list made with React Native, React-Redux.
 
-### 7. [Quotes](https://github.com/macstojak/Quotes) - console application made with Node.js for CRUD operations on meaningful (or meaningless) life sentences. Instructions inside repos readme.
+### 8. [Quotes](https://github.com/macstojak/Quotes) - console application made with Node.js for CRUD operations on meaningful (or meaningless) life sentences. Instructions inside repos readme.
 
-### 8. [Pomodoro Basilico](https://github.com/macstojak/pomodoro-basilico) - pomodoro timer and kanban board made with React, styled-components, react-beautiful-dnd.
+### 9. [Pomodoro Basilico](https://github.com/macstojak/pomodoro-basilico) - pomodoro timer and kanban board made with React, styled-components, react-beautiful-dnd.
 
 ## Hope it all works ! :innocent: :pray: :grin:
 
