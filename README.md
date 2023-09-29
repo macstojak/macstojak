@@ -3,7 +3,7 @@
 
 # VUE PROJECTS:
 
-### 1. [Vue Music](https://github.com/macstojak/VueMusic) - music player made with Vue, Typescript, Howler.js, Firebase, Pinia, Vee-Validate, Tailwind.
+### 1. [Vue Music](https://github.com/macstojak/VueMusic) - music player made with Vue, Typescript, Howler.js, Firebase, Pinia, Vee-Validate, Tailwind. Link to website hosted on Vercel: [VueMusicApp](https://vue-music-roan.vercel.app/)
 
 ### 2. [Vue Shop](https://github.com/macstojak/VueShop) - e-commerce app made with Vue, Typescript, AntDesign, Tailwind.
 
