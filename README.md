@@ -4,6 +4,9 @@
 # REACT PROJECTS:
 ### 1. [BlogAI](https://github.com/macstojak/AIBlog) - an AI tool for creating blog posts content with use of React, OpenAI API, Next.js, Node.js, Stripe, MongoDb, Auth0, TailwindCss, ESLint.
 
+# ANGULAR PROJECTS:
+### 1. [AngularClips](https://github.com/macstojak/AngularClips) - project for maintaining and playing video streaming clips made with Angular, Typescript, WebAssembly, Rust, Firebase, Karma and Jasmine.
+
 # VUE PROJECTS:
 
 ### 1. [Vue Music](https://github.com/macstojak/VueMusic) - music player made with Vue, Typescript, Howler.js, Firebase, Pinia, Vee-Validate, Tailwind. 
